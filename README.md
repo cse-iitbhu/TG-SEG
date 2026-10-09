@@ -1,6 +1,4 @@
-# TG-SEG
-
-## Text-Guided and Presence-Aware Temporal Propagation for Medical Image Segmentation (CIKM 2026)
+# Text-Guided and Presence-Aware Temporal Propagation for Medical Image Segmentation (CIKM 2026)
 
 **Krishna Tewari\***, **Shayon Dasgupta\***, and **Sukomal Pal**  
 Indian Institute of Technology (BHU), Varanasi, India  
